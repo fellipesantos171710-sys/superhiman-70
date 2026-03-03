@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Superhuman at 70</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Superhuman at 70</h1>
+    <p>How to stay strong, energetic and mentally sharp</p>
+</header>
+
+<section>
+    <h2>Introduction</h2>
+    <p>
+        Turning 70 doesn’t mean slowing down. It means unlocking a new
+        phase of strength, wisdom and vitality.
+    </p>
+</section>
+
+<section>
+    <h2>Physical Strength</h2>
+    <p>
+        Movement is life. Strength training, mobility and balance
+        exercises are key to staying independent and powerful.
+    </p>
+</section>
+
+<section>
+    <h2>Mental Clarity</h2>
+    <p>
+        The brain thrives on learning, social connection and proper
+        nutrition. Keep challenging your mind daily.
+    </p>
+</section>
+
+<section>
+    <h2>Longevity Habits</h2>
+    <ul>
+        <li>Quality sleep</li>
+        <li>Whole foods</li>
+        <li>Consistent movement</li>
+        <li>Purpose and community</li>
+    </ul>
+</section>
+
+<footer>
+    <p>© 2026 Superhuman at 70</p>
+</footer>
+
+</body>
+</html>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background: linear-gradient(135deg, #111, #333);
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+}
+
+header h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+section {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 0 20px;
+}
+
+section h2 {
+    color: #111;
+    margin-bottom: 15px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    background: #111;
+    color: white;
+    margin-top: 60px;
+}
